@@ -1,3 +1,5 @@
+Code Output:
+
 Original List: 1 -> 5 -> 3 -> 5 -> 5 -> 4 -> NULL
 
 After deleting node at position 2: 1 -> 5 -> 5 -> 5 -> 4 -> NULL
