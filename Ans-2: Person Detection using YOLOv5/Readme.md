@@ -1,0 +1,2 @@
+#### Link to the video explaining working: https://drive.google.com/drive/folders/17Ap8HYNrHZbX6N6gNDXBXqs2949X3z-5?usp=drive_link
+Please find the trained model weights and results in the Atharva_Mohite_Assignment-ML_Level-1_submission/Ans-2/yolov5/runs/train and /content/drive/MyDrive/Atharva_Mohite_Assignment-ML_Level-1_submission/Ans-2/yolov5/runs/val drive folders respectively
