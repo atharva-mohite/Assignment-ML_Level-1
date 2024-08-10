@@ -1,5 +1,5 @@
 ### Task-1:
-Windows Powershell bash ommand to scan your network:
+After installing nmap, windows powershell bash ommand to scan your network:
 ```bash
 nmap -sP 192.168.1.x/24
 ```
