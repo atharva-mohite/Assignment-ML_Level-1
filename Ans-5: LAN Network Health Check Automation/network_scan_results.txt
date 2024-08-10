@@ -1,0 +1,7 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2024-08-10 01:20 India Standard Time
+Nmap scan report for 192.168.1.x (192.168.1.x)
+Host is up (0.0052s latency).
+MAC Address: XX:XX:XX:XX:XX:XX (Manufacturer)
+Nmap scan report for 192.168.1.x (192.168.1.x)
+Host is up.
+Nmap done: 256 IP addresses (2 hosts up) scanned in 2.36 seconds
