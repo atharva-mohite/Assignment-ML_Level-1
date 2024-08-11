@@ -55,3 +55,4 @@ Make the bash script [log_and_report.sh]() executable and run it:
 chmod +x log_and_report.sh
 ./log_and_report.sh
 ```
+A log file [network_log.txt]() and a summary report [network_summary.txt]() will be generated.
