@@ -27,3 +27,10 @@ To run the above file and also save the results to a file:
 ```
 The output file is [network_health_report.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/e3810234723c5f15ced072f0303d68d0f8ec2477/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_health_report.txt)
 ### Task-3: Host Availability Check
+After ensuring that ICMP (ping) requests are enabled on the public network, navigate to the directory (using ```cd``` command) where the [host_check.sh]() bash file and the [hosts.txt]() file are saved
+
+Make the bash script executable and run it:
+```bash
+chmod +x host_check.sh
+./host_check.sh
+```
