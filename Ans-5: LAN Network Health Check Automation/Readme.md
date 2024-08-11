@@ -42,8 +42,8 @@ The output file is [host_availability_output.txt](https://github.com/atharva-moh
 ### Task-4: Network Latency Test
 In windows powershell, navigate to your desired directory using ```cd``` command.
 
-Run the Python script [traceroute_script.py]() and redirect the output to a text file:
+Run the Python script [traceroute_script.py]():
 ```bash
-python traceroute_script.py > traceroute_output.txt
+python traceroute_script.py
 ```
-The output file is [traceroute_output.txt]()
+The results will be saved in a text file [traceroute_results.txt]()
