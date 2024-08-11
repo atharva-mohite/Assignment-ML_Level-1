@@ -1,0 +1,4 @@
+www.google.com: 27 hops, 322 ms total time
+8.8.4.4: 24 hops, 329 ms total time
+142.251.46.174: 41 hops, 5351 ms total time
+2607:f8b0:4005:80c::200e: 42 hops, 5533 ms total time
