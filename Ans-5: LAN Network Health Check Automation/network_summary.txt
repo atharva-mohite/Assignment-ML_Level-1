@@ -1,0 +1,6 @@
+Network Summary Report:
+Total Hosts Checked: 3
+Reachable Hosts: 3
+Open Ports Detected: 16
+Network Latency: See traceroute results
+

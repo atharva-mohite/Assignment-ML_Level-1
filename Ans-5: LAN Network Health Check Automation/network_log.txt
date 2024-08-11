@@ -1,0 +1,62 @@
+Starting Network Analysis...
+
+Task 1: Port Scan on LAN
+Network scan and open ports results saved.
+
+
+Task 2: Network Health Check
+Network Health Check
+
+Checking network interface status...
+Ethernet is up.
+
+Pinging 8.8.8.8 to check connectivity...
+Connectivity to 8.8.8.8 is OK.
+
+Checking network speed...
+Ping: 54.395 ms
+Download: 42.60 Mbit/s
+Upload: 28.03 Mbit/s
+
+Network health check completed.
+Network health check completed.
+
+
+Task 3: Host Availability Check
+Host Availability Check
+
+Pinging www.google.com
+...
+www.google.com
+ is reachable.
+
+Pinging 8.8.4.4
+...
+8.8.4.4
+ is reachable.
+
+Pinging 142.251.46.174
+...
+142.251.46.174
+ is reachable.
+
+Host availability check completed.
+Host availability check completed.
+
+
+Task 4: Network Latency Test
+Traceroute to www.google.com: 27 hops, 321 ms total time
+Traceroute to 8.8.4.4: 24 hops, 312 ms total time
+Traceroute to 142.251.46.174: 42 hops, 5063 ms total time
+Traceroute to 2607:f8b0:4005:80c::200e: 42 hops, 8764 ms total time
+Network latency test completed.
+
+
+Generating Summary Report...
+
+Network Summary Report:
+Total Hosts Checked: 3
+Reachable Hosts: 3
+Open Ports Detected: 16
+Network Latency: See traceroute results
+
