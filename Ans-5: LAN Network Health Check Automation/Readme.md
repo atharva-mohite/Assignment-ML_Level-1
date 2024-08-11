@@ -50,11 +50,11 @@ The results will be saved in a text file [traceroute_results.txt](https://github
 ### Task-5: Logging and Reporting
 In git bash, navigate to your desired directory using ```cd``` command.
 
-Make the bash script [log_and_report.sh]() executable and run it:
+Make the bash script [log_and_report.sh](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/e18f3d92aeb870f930cea81c822449acaabc3d73/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/log_and_report.sh) executable and run it:
 ```bash
 chmod +x log_and_report.sh
 ./log_and_report.sh
 ```
-A log file [network_log.txt]() and a summary report [network_summary.txt]() will be generated.
+A log file [network_log.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/e18f3d92aeb870f930cea81c822449acaabc3d73/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_log.txt) and a summary report [network_summary.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/e18f3d92aeb870f930cea81c822449acaabc3d73/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_summary.txt) will be generated.
 
-Other result files will be saved as mentioned in the [network_log.txt]() file.
+Other result files will be saved as mentioned in the [network_log.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/e18f3d92aeb870f930cea81c822449acaabc3d73/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_log.txt) file.
