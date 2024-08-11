@@ -56,3 +56,5 @@ chmod +x log_and_report.sh
 ./log_and_report.sh
 ```
 A log file [network_log.txt]() and a summary report [network_summary.txt]() will be generated.
+
+Other result files will be saved as mentioned in the [network_log.txt]() file.
