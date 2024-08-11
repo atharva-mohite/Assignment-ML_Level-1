@@ -48,3 +48,9 @@ python traceroute_script.py
 ```
 The results will be saved in a text file [traceroute_results.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/260f22b0341790c43f31bef31be66df24210b724/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/traceroute_results.txt)
 ### Task-5: Logging and Reporting
+In git bash, navigate to your desired directory using ```cd``` command.
+Make the bash script [log_and_report.sh]() executable and run it:
+```bash
+chmod +x log_and_report.sh
+./log_and_report.sh
+```
