@@ -14,3 +14,15 @@ nmap -p 1-65535 192.168.1.x/24 > open_ports_results.txt
 ```
 The masked scan results are [network_scan_results.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/fbf4aad80d1048c10ca72f04d67080a5e6f815ba/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_scan_results.txt) and [open_ports_results.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/70cbf0416a220e673b5423132fbc58bd0a30dfb9/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_scan_results.txt)
 ### Task-2:
+Open git bash and navigate to your desired directory using ```cd``` command. Install ```speedtest-cli``` if not installed.
+
+To automate checking various aspects of network health and performance, run the provided ```network_health_check.sh``` bash file in git bash:
+```bash
+chmod +x network_health_check.sh
+./network_health_check.sh
+```
+To run the above file and also save the results to a file:
+```bash
+./network_health_check.sh > network_health_report.txt
+```
+The output file is [network_health_report.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/fbf4aad80d1048c10ca72f04d67080a5e6f815ba/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/network_scan_results.txt)
