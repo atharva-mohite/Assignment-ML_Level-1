@@ -1,0 +1,18 @@
+Host Availability Check
+
+Pinging www.google.com
+...
+www.google.com
+ is reachable.
+
+Pinging 8.8.4.4
+...
+8.8.4.4
+ is reachable.
+
+Pinging 142.251.46.174
+...
+142.251.46.174
+ is reachable.
+
+Host availability check completed.
