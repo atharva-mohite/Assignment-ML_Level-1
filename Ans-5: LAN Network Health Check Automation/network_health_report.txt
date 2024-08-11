@@ -1,0 +1,14 @@
+Network Health Check
+
+Checking network interface status...
+Ethernet is up.
+
+Pinging 8.8.8.8 to check connectivity...
+Connectivity to 8.8.8.8 is OK.
+
+Checking network speed...
+Ping: 68.906 ms
+Download: 34.21 Mbit/s
+Upload: 33.66 Mbit/s
+
+Network health check completed.
