@@ -29,7 +29,7 @@ The output file is [network_health_report.txt](https://github.com/atharva-mohite
 ### Task-3: Host Availability Check
 After ensuring that ICMP (ping) requests are enabled on the public network, navigate to the directory (using ```cd``` command) where the [host_check.sh](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/bbdd948b65054f574384c06854a78d68f4fa5cf8/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/host_check.sh) bash file and the [hosts.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/bbdd948b65054f574384c06854a78d68f4fa5cf8/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/hosts.txt) file are saved
 
-Make the bash script executable and run it:
+Make the bash script executable and run it on git bash:
 ```bash
 chmod +x host_check.sh
 ./host_check.sh
@@ -39,3 +39,11 @@ To save the output to a text file, run the script as follows:
 ./host_check.sh > host_availability_output.txt
 ```
 The output file is [host_availability_output.txt](https://github.com/atharva-mohite/Assignment-ML_Level-1/blob/bbdd948b65054f574384c06854a78d68f4fa5cf8/Ans-5%3A%20LAN%20Network%20Health%20Check%20Automation/host_availability_output.txt)
+### Task-4: Network Latency Test
+In windows powershell, navigate to your desired directory using ```cd``` command.
+
+Run the Python script [traceroute_script.py]() and redirect the output to a text file:
+```bash
+python traceroute_script.py > traceroute_output.txt
+```
+The output file is [traceroute_output.txt]()
